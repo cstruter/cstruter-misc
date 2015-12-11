@@ -1,0 +1,12 @@
+{
+	"name" : "CSTruter/Misc",
+	"description" : "Miscellaneous Classes",
+	"version" : "0.0.1",
+	"autoload": {
+		"classmap" : [
+			"Exceptions",
+			"Data",
+			"Request.php"
+		]
+	}
+}
